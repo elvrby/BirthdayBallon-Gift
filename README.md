@@ -19,7 +19,10 @@ Here are the steps to run the project
    ```bash
 	git clone https://github.com/elvrby/BirthdayBallon-Gift.git
 
-2. **Finishing**
+2. **Customize Website**
+   * Edit the text or add on happy birthday.js
+
+3. **Finishing**
    * Run the program
    * and your website is ready to use
 
