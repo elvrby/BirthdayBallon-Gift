@@ -5,7 +5,7 @@ let w = (c.width = window.innerWidth),
 (hh = h / 2),
   (opts = {
     //    Ubah Text Disini    //
-    strings: ["HAPPY", "BIRTHDAY!", "Jeni Blackpinkk"],
+    strings: ["HAPPY", "BIRTHDAY!", "For You"],
     charSize: 30,
     charSpacing: 35,
     lineHeight: 40,
